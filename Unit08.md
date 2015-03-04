@@ -1,3 +1,10 @@
+---
+layout: default
+title: "POLSC412: International Law"
+course_description: "An introductory course on the principles of international law, its foundations and historical development. Explores specific topics within international law, including human rights law, the legal use of force, treaties and conventions, and laws governing common spaces."
+next: ../Unit09
+previous: ../Unit07
+---
 **Unit 8: Laws of the Global Commons** <span id="8"></span> 
 *In this unit, you will study international laws that pertain to the
 Arctic and Space.*

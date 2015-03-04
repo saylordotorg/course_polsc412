@@ -1,3 +1,10 @@
+---
+layout: default
+title: "POLSC412: International Law"
+course_description: "An introductory course on the principles of international law, its foundations and historical development. Explores specific topics within international law, including human rights law, the legal use of force, treaties and conventions, and laws governing common spaces."
+next: ../Unit01
+previous: ../../../
+---
 Course Syllabus for "POLSC412: International Law"
 -------------------------------------------------
 

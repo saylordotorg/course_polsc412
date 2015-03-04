@@ -1,3 +1,10 @@
+---
+layout: default
+title: "POLSC412: International Law"
+course_description: "An introductory course on the principles of international law, its foundations and historical development. Explores specific topics within international law, including human rights law, the legal use of force, treaties and conventions, and laws governing common spaces."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Power, Politics, and International Law** <span id="2"></span> 
 *The preeminent modern theorist of international relations, Hans
 Morganthau (1978), wrote: “In the modern world, nations active in

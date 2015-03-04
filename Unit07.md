@@ -1,3 +1,10 @@
+---
+layout: default
+title: "POLSC412: International Law"
+course_description: "An introductory course on the principles of international law, its foundations and historical development. Explores specific topics within international law, including human rights law, the legal use of force, treaties and conventions, and laws governing common spaces."
+next: ../Unit08
+previous: ../Unit06
+---
 **Unit 7: International Environmental Law** <span id="7"></span>  **Unit
 7 Time Advisory**  
 This unit will take you approximately 9 hours to complete.   
