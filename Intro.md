@@ -125,3 +125,15 @@ be unfamiliar to you.  Take your time in Units 1 and 2 so that you have
 a firm understanding of the foundation of international law before
 proceeding to subsequent units where specific types of legal issues are
 explored in depth.
+
+**Table of Contents:** You can find the course's units at the links below.
+
+- [Unit 1](https://legacy.saylor.org/polsc412/Unit01/)
+- [Unit 2](https://legacy.saylor.org/polsc412/Unit02/)
+- [Unit 3](https://legacy.saylor.org/polsc412/Unit03/)
+- [Unit 4](https://legacy.saylor.org/polsc412/Unit04/)
+- [Unit 5](https://legacy.saylor.org/polsc412/Unit05/)
+- [Unit 6](https://legacy.saylor.org/polsc412/Unit06/)
+- [Unit 7](https://legacy.saylor.org/polsc412/Unit07/)
+- [Unit 8](https://legacy.saylor.org/polsc412/Unit08/)
+- [Unit 9](https://legacy.saylor.org/polsc412/Unit09/)
