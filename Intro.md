@@ -147,3 +147,4 @@ explored in depth.
 - [Unit 7](https://legacy.saylor.org/polsc412/Unit07/)
 - [Unit 8](https://legacy.saylor.org/polsc412/Unit08/)
 - [Unit 9](https://legacy.saylor.org/polsc412/Unit09/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/POLSC/POLSC412/POLSC412-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/POLSC/POLSC412/POLSC412-FinalExam-Answers.html)
