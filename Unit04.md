@@ -38,7 +38,7 @@ of combatants and non-combatants, were developed.*
     the Laws of War”**
     Link: The Saylor Foundation: Sharon Jumper’s “[The Evolution of the
     Laws of
-    War](http://www.saylor.org/site/wp-content/uploads/2011/11/POLSC-412-Laws-of-War.pdf)”
+    War](https://resources.saylor.org/archived/wp-content/uploads/2011/11/POLSC-412-Laws-of-War.pdf)”
     (PDF)  
         
      Instructions: Please go to the linked page and read the article,
