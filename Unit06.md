@@ -8,8 +8,9 @@ This unit will take you approximately 10 hours to complete. 
   
  ☐    Subunit 6.3: 2 hours 
 
-**Unit6 Learning Outcomes**  
+**Unit 6 Learning Outcomes**  
 Upon successful completion of this unit, the student will be able to:  
+
 -   Explain the roles of the WTO and UNCITRAL in regulating
     international trade.
 -   Discuss international treaties and laws that seek to regulate trade.
@@ -47,7 +48,7 @@ and the role that it plays in regulating international trade. *
 -   **Reading: World Trade Organization: “10 Benefits of the WTO Trading
     System”**
     Link: World Trade Organization: “[10 Benefits of the WTO Trading
-    System](http://www.wto.org/english/thewto_e/whatis_e/10ben_e/10b00_e.htm)”
+    System](https://web.archive.org/web/20120305225759/http://www.wto.org/english/thewto_e/whatis_e/10ben_e/10b00_e.htm)”
     (HTML or PDF)  
         
      Instructions: Please go to the linked page and read the article,
@@ -62,7 +63,7 @@ and the role that it plays in regulating international trade. *
     about the WTO”**
     Link: World Trade Organization: “[10 Common Misunderstandings about
     the
-    WTO](http://www.wto.org/english/thewto_e/whatis_e/10mis_e/10m00_e.htm)”
+    WTO](https://web.archive.org/web/20120305225759/http://www.wto.org/english/thewto_e/whatis_e/10mis_e/10m00_e.htm)”
     (HTML or PDF)  
         
      Instructions: Please go to the linked page and read the article,
@@ -98,7 +99,7 @@ and the role that it plays in regulating international trade. *
     Gabrielle Marceau’s “[The General Basic Legal Principles that
     Underpin the International Trading System (The Basic Legal
     Principles of the
-    WTO)”](http://untreaty.un.org/cod/avl/ls/Marceau_IEL.html)
+    WTO)”](https://legal.un.org/avl/ls/Marceau_IEL.html)
     (RealPlayer Video)  
         
      Instructions: Click on the “Video” link in the middle of the page. 
@@ -113,7 +114,7 @@ and the role that it plays in regulating international trade. *
     Link: The United Nations’ Audiovisual Library of International Law:
     Pascal Lamy’s “[The Relationship between WTO Law and General
     International
-    Law](https://web.archive.org/web/20131015135929/http://untreaty.un.org/cod/avl/ls/Lamy_IEL.html)”
+    Law](https://legal.un.org/avl/ls/Lamy_IEL.html)”
     (RealPlayer Video)  
         
      Instructions: Click on the “Video” link in the middle of the page. 
@@ -132,7 +133,7 @@ international trade.*
     United Nations Commission on International Trade Law**
     Link: United Nations: *[The UNCITRAL Guide: Basic Facts about the
     United Nations Commission on International Trade
-    Law](http://www.uncitral.org/uncitral/en/about_us.html)* (PDF)  
+    Law](https://uncitral.un.org/en/about)* (PDF)  
         
      Instructions: Click on the link titled “The UNCITRAL Guide.” 
     Please read the article, which explains the role of the UNCITRAL in
@@ -148,7 +149,7 @@ international trade.*
     Link: The United Nations’ Audiovisual Library of International Law:
     Jernej Sekolec’s “[The Role of UNCITRAL in the Harmonization and the
     Modernization of the Law of International
-    Trade](https://web.archive.org/web/20131015135603/http://untreaty.un.org/cod/avl/ls/Sekolec_IEL.html)”
+    Trade](https://legal.un.org/avl/ls/Sekolec_IEL.html)”
     (RealPlayer Video)  
         
      Instructions: Click on the “Video” link under the “UNCITRAL”
@@ -159,12 +160,13 @@ international trade.*
 
 **6.3 Additional International Laws Pertaining to Commerce and
 Business** <span id="6.3"></span> 
+
 -   **Web Media: The United Nations’ Audiovisual Library of
     International Law: Anne Trebilcock’s “The Development of
     International Labour Law”**
     Link: The United Nations’ Audiovisual Library of International Law:
     Anne Trebilcock’s “[The Development of International Labour
-    Law](https://web.archive.org/web/20131015140055/http://untreaty.un.org/cod/avl/ls/Trebilcock_ILL.html)”
+    Law](https://legal.un.org/avl/ls/Trebilcock_ILL.html)”
     (RealPlayer Video)  
         
      Instructions: Please watch the video presentation (47 mins.).  
@@ -178,7 +180,7 @@ Business** <span id="6.3"></span> 
     Link: The United Nations’ Audiovisual Library of International Law:
     W. Michael Reisman’s “[Foreign Investment, Economic Development and
     National
-    Sovereignty](https://web.archive.org/web/20131015140051/http://untreaty.un.org/cod/avl/ls/Reisman_IEL.html)”
+    Sovereignty](https://legal.un.org/avl/ls/Reisman_IEL.html)”
     (RealPlayer Video)  
         
      Instructions: Please watch the video presentation (51 mins.).  

@@ -6,8 +6,9 @@ This unit will take you approximately 9 hours to complete. 
   
  ☐    Subunit 7.2: 5 hours 
 
-**Unit7 Learning Outcomes**  
-Upon successful completion of this unit, the student will be able to:  
+**Unit 7 Learning Outcomes**  
+Upon successful completion of this unit, the student will be able to:
+  
 -   Describe international organizations with jurisdiction over
     environmental law.
 -   Identify threats to the environment that are regulated by
@@ -17,6 +18,7 @@ Upon successful completion of this unit, the student will be able to:
 
 **7.1 An Introduction to International Environmental Law** <span
 id="7.1"></span> 
+
 -   **Reading: Center for International Environmental Law: Marcos A.
     Orellana’s “Climate Change and the Millenium Goals: The Right To
     Development, International Cooperation and the Clean Development
@@ -24,7 +26,7 @@ id="7.1"></span> 
     Link: Center for International Environmental Law: Marcos A.
     Orellana’s “[Climate Change and the Millenium Goals: The Right To
     Development, International Cooperation and the Clean Development
-    Mechanism](http://www.ciel.org/Publications/pubccp.html)” (PDF)  
+    Mechanism](https://web.archive.org/web/20110815125800/https://www.ciel.org/Publications/pubccp.html)” (PDF)  
         
      Instructions: Please go to the linked page and scroll down until
     you see the link for “Climate Change and the Millenium Goals: The
@@ -38,7 +40,7 @@ id="7.1"></span> 
 
 -   **Reading: Ecovitality.org: “Causes of Environmental Law Failures”**
     Link: Ecovitality.org: “[Causes of Environmental Law
-    Failures](http://ecovitality.org/badlaw.htm)” (HTML)  
+    Failures](https://web.archive.org/web/20120711132926/https://ecovitality.org/badlaw.htm)” (HTML)  
         
      Instructions: Please go to the linked page and read the article.  
         
@@ -50,7 +52,7 @@ id="7.1"></span> 
     Law—An Introduction”**
     Link: The United Nations’ Audiovisual Library of International Law:
     Edith Brown Weiss’ “[International Environmental Law—An
-    Introduction](https://web.archive.org/web/20131109211018/http://untreaty.un.org/cod/avl/ls/Weiss_EL.html)”
+    Introduction](https://legal.un.org/avl/ls/Weiss_EL.html)”
     (RealPlayer Video)  
         
      Instructions: Click on the “English” link under the “International
@@ -63,7 +65,7 @@ id="7.1"></span> 
 -   **Web Media: Judge Hanqin Xue ‘s “Transboundary Damage in
     International Law”**
     Link: Judge Hanqin Xue ‘s “[Transboundary Damage in International
-    Law](http://webcast.un.org/ramgen/ondemand/legal/video/LectureSeries/xue100520.rm)”
+    Law](https://legal.un.org/avl/ls/Xue_EL.html)”
     (RealPlayer Video)  
         
      Instructions: Please watch the video presentation (48 mins.).  
@@ -79,7 +81,7 @@ id="7.2"></span> 
     Link: Center for International Environmental Law: Anne Perrault and
     Joanna Levitt’s “[Using International Law and Institutions to
     Protect Children’s Environmental
-    Health](http://www.ciel.org/Publications/pubhre.html)” (PDF)  
+    Health](https://web.archive.org/web/20111106081326/http://www.ciel.org/Publications/pubhre.html)” (PDF)  
         
      Instructions: Go to the linked page and scroll down until you see
     the link for “Using International Law and Institutions to Protect
@@ -96,7 +98,7 @@ id="7.2"></span> 
     Link: The United Nations’ Audiovisual Library of International Law:
     Nico Schrijver’s “[International Law in the Field of Sustainable
     Development—Evolution, Meaning and
-    Status](https://web.archive.org/web/20131015135528/http://untreaty.un.org/cod/avl/ls/Schrijver_D.html)”
+    Status](https://legal.un.org/avl/ls/Schrijver_D.html)”
     (RealPlayer Video)  
         
      Instructions: Click on the “English” link under the “Development”
@@ -110,7 +112,7 @@ id="7.2"></span> 
     Infectious Disease Control”**
     Link: The United Nations’ Audiovisual Library of International Law:
     Gian Luca Burci’s “[International Law and Infectious Disease
-    Control](https://web.archive.org/web/20131015135701/http://untreaty.un.org/cod/avl/ls/Burci_HS.html)”
+    Control](https://legal.un.org/avl/ls/Burci_HS.html)”
     (RealPlayer Video)  
         
      Instructions: Please watch the video presentation (47 mins.).  
@@ -123,7 +125,7 @@ id="7.2"></span> 
     of Biotechnology”**
     Link: The United Nations’ Audiovisual Library of International Law:
     Matthias Herdegen’s “[The International Regulation of
-    Biotechnology](https://web.archive.org/web/20131015140024/http://untreaty.un.org/cod/avl/ls/Herdegen_HS.html)”
+    Biotechnology](https://legal.un.org/avl/ls/Herdegen_HS.html)”
     (RealPlayer Video)  
         
      Instructions: Please watch the video presentation (27 mins.).  

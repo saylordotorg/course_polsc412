@@ -1,5 +1,6 @@
-**Unit 3: Territory and Sovereignty** <span id="3"></span>  **Unit 3
-Time Advisory**  
+**Unit 3: Territory and Sovereignty** <span id="3"></span>
+
+**Unit 3 Time Advisory**  
 This unit will take you approximately 10 hours to complete.   
   
  ☐    Subunit 3.1: 3 hours  
@@ -8,10 +9,11 @@ This unit will take you approximately 10 hours to complete. 
   
  ☐    Subunit 3.3: 2 hours 
 
-**Unit3 Learning Outcomes**  
-Upon successful completion of this unit, the student will be able to:  
+**Unit 3 Learning Outcomes**  
+Upon successful completion of this unit, the student will be able to:
+  
 -   Explain the application and impact of international law to
-    territorial boundaries and diplomatic missions.
+    territorial boundaries and diplomatic missions. 
 -   Explain how international laws are enforced on the world’s oceans.
 -   Assess the effectiveness of strategies used throughout history to
     deal with piracy on the high seas.
@@ -35,7 +37,7 @@ mitigate these types of conflicts.*
     Malcolm Shaw’s Lecture Notes on “[International Legal Principles
     Relating to Territorial Disputes (The Rules Governing the
     Acquisition of Title to
-    Territory)](http://untreaty.un.org/cod/avl/ls/Shaw_BD.html)” (PDF)  
+    Territory)](https://legal.un.org/avl/ls/Shaw_BD.html)” (PDF)  
         
      Instructions: Click on the “Related Materials” tab and then click
     to download the “Outline of Lecture” under the “International Legal
@@ -53,9 +55,9 @@ mitigate these types of conflicts.*
     Link: The United Nations’ Audiovisual Library of International Law:
     Malcolm Shaw’s “[International Legal Principles Relating to
     Territorial Disputes (The Rules Governing the Acquisition of Title
-    to Territory](http://untreaty.un.org/cod/avl/ls/Shaw_BD.html))”
-    (RealPlayerVideo)  
-        
+    to Territory)](https://legal.un.org/avl/ls/Shaw_BD.html)”
+    (RealPlayer Video)  
+
      Instructions: Click on the link titled “Video” under the
     “International Legal Principles Relating to Territorial Disputes”
     tab.  Please watch the video presentation (48 mins.).  
@@ -68,7 +70,7 @@ mitigate these types of conflicts.*
     Disputes”**
     Link: The United Nations’ Audiovisual Library of International Law:
     Malcolm Shaw’s Lecture Notes on “[Settling Territorial
-    Disputes](http://untreaty.un.org/cod/avl/ls/Shaw_BD.html)” (PDF)  
+    Disputes](https://legal.un.org/avl/ls/Shaw_BD.html)” (PDF)  
         
      Instructions: Click on the “Related Materials” tab and then click
     to download the “Outline of Lecture” under the “Settling Territorial
@@ -82,7 +84,7 @@ mitigate these types of conflicts.*
     International Law: Malcolm Shaw’s “Settling Territorial Disputes”**
     Link: The United Nations’ Audiovisual Library of International Law:
     Malcolm Shaw’s “[Settling Territorial
-    Disputes](http://untreaty.un.org/cod/avl/ls/Shaw_BD.html)”
+    Disputes](https://legal.un.org/avl/ls/Shaw_BD.html)”
     (RealPlayer Video)  
         
      Instructions: Click on the link titled “Video” under the “Settling
@@ -102,7 +104,7 @@ piracy on the high seas.*
     the Sea”**
     Link: The United Nations’ Audiovisual Library of International Law:
     Judge Tullio Treves’ “[United Nations Convention on the Law of the
-    Sea](http://untreaty.un.org/cod/avl/ls/Treves_LS.html)” (PDF)  
+    Sea](https://legal.un.org/avl/ls/Treves_LS.html)” (PDF)  
         
      Instructions: Click on the “Related Materials” tab and then click
     to download the file titled “United Nations Convention on the Law of
@@ -118,7 +120,7 @@ piracy on the high seas.*
     Link: The United Nations’ Audiovisual Library of International Law:
     Judge Tullio Treves’ Lecture Notes on “[The New Law of the Sea and
     the Settlement of
-    Disputes](https://web.archive.org/web/20130715023826/http://untreaty.un.org/cod/avl/ls/Treves_LS.html)”
+    Disputes](https://legal.un.org/avl/ls/Treves_LS.html)”
     (PDF)  
         
      Instructions: Click on the “Related Materials” tab and then click
@@ -134,7 +136,7 @@ piracy on the high seas.*
     the Settlement of Disputes”**
     Link: The United Nations’ Audiovisual Library of International Law:
     Judge Tullio Treves’ “[The New Law of the Sea and the Settlement of
-    Disputes](http://untreaty.un.org/cod/avl/ls/Treves_LS.html)” 
+    Disputes](https://legal.un.org/avl/ls/Treves_LS.html)” 
     (RealPlayer Video)  
         
      Instructions: Click on the link titled “English” in the middle of
@@ -148,7 +150,7 @@ piracy on the high seas.*
     Delimitation”**
     Link: The United Nations’ Audiovisual Library of International Law:
     Malcolm Shaw’s Lecture Notes on “[Principles of Maritime
-    Delimitation](https://web.archive.org/web/20131015135616/http://untreaty.un.org/cod/avl/ls/Shaw_BD.html)”
+    Delimitation](https://legal.un.org/avl/ls/Shaw_BD.html)”
     (PDF)  
         
      Instructions: Click on the “Related Materials” tab and then click
@@ -163,7 +165,7 @@ piracy on the high seas.*
     Delimitation”**
     Link: The United Nations’ Audiovisual Library of International Law:
     Malcolm Shaw’s “[Principles of Maritime
-    Delimitation](http://untreaty.un.org/cod/avl/ls/Shaw_BD.html)”
+    Delimitation](https://legal.un.org/avl/ls/Shaw_BD.html)”
     (RealPlayer Video)  
         
      Instructions: Click on the link titled “English” under the
@@ -178,7 +180,7 @@ piracy on the high seas.*
     the Law of the Sea”**
     Link: The United Nations’ Audiovisual Library of International Law:
     Judge Helmut Tuerk’s “[The Landlocked States and the Law of the
-    Sea](http://untreaty.un.org/cod/avl/ls/Tuerk_LOS.html)” (RealPlayer
+    Sea](https://legal.un.org/avl/ls/Tuerk_LOS.html)” (RealPlayer
     Video)  
         
      Instructions: Click on the link titled “Video” under the
@@ -194,7 +196,7 @@ piracy on the high seas.*
     Link: The United Nations’ Audiovisual Library of International Law:
     Judge Helmut Tuerk’s “[The Resurgence of Piracy: A Phenomenon of
     Modern
-    Times](https://web.archive.org/web/20130616035841/http://untreaty.un.org/cod/avl/ls/Tuerk_LOS.html)” 
+    Times](https://legal.un.org/avl/ls/Tuerk_LOS.html)” 
     (RealPlayer Video)  
         
      Instructions: Click on the link titled “Video” under the “A
@@ -229,7 +231,7 @@ missions and military forces.*
     International Law: John Dugard’s “Diplomatic Protection”**
     Link: The United Nations’ Audiovisual Library of International Law:
     John Dugard’s “[Diplomatic
-    Protection](https://web.archive.org/web/20131027060405/http://untreaty.un.org/cod/avl/ls/Dugard_DP.html)”
+    Protection](https://legal.un.org/avl/ls/Dugard_DP.html)”
     (RealPlayer Video)  
         
      Instructions: Click on the link titled “Video” in the middle of the

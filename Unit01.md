@@ -10,17 +10,18 @@ have made in the development of modern international law.*
 **Unit 1 Time Advisory**  
 <span class="Apple-style-span">This unit will take you approximately 14
 hours to complete.   
-  
- ☐    Subunit 1.1: 3 hours  
-  
- ☐    Subunit 1.2: 4 hours  
-  
- ☐    Subunit 1.3: 3 hours</span>  
-  
- <span class="Apple-style-span">☐    Subunit 1.4: 4 hours</span>
 
-**Unit1 Learning Outcomes**  
-Upon successful completion of this unit, the student will be able to:  
+ ☐    Subunit 1.1: 3 hours  
+
+ ☐    Subunit 1.2: 4 hours  
+
+ ☐    Subunit 1.3: 3 hours  
+
+ ☐    Subunit 1.4: 4 hours </span>
+
+**Unit 1 Learning Outcomes**  
+Upon successful completion of this unit, the student will be able to:
+  
 -   Define international law.
 -   Explain how international law is established and enforced.
 -   Identify legal issues present in modern international disputes.
@@ -65,7 +66,7 @@ financial transactions, sovereignty, and immunity.*
     Link: The United Nations’ Audiovisual Library of International Law:
     Benedict Kingsbury’s “[What, How, and Who Should Public
     International Law Regulate? New Problems of Global Administrative
-    Governance](https://web.archive.org/web/20131015141525/http://untreaty.un.org/cod/avl/ls/Kingsbury_IL.html)”
+    Governance](https://legal.un.org/avl/ls/Kingsbury_IL.html)”
     (RealPlayer Video)  
         
      Instructions: Click on the link titled “Video” in the middle of the
@@ -79,7 +80,7 @@ financial transactions, sovereignty, and immunity.*
     International Law?”**
     Link: The United Nations’ Audiovisual Library of International Law:
     Christian Tomuschat’s “[What is General International
-    Law](https://web.archive.org/web/20131017193453/http://legal.un.org/avl/ls/Tomuschat.html)?”
+    Law](https://legal.un.org/avl/ls/Tomuschat_IL.html)?”
     (RealPlayer Video)  
         
      Instructions: Click on the link titled “Video” in the middle of the
@@ -97,7 +98,7 @@ warfare began to evolve in Western civilization, spurring debates
 between utilitarian and humanitarian leaders as to how war should be
 conducted and what, if any, limits should be placed on military conduct
 during operations.  As commerce and military conquests became more
-frequent, alliances and treaties were formed. *
+frequent, alliances and treaties were formed.*
 
 -   **Web Media: The United Nations’ Audiovisual Library of
     International Law: Mónica Pinto’s “The Evolution of International
@@ -105,7 +106,7 @@ frequent, alliances and treaties were formed. *
     Link: The United Nations’ Audiovisual Library of International Law:
     Mónica Pinto’s “[The Evolution of International Society and
     International
-    Law](https://web.archive.org/web/20131015140743/http://untreaty.un.org/cod/avl/ls/Pinto_IL.html)”
+    Law](https://legal.un.org/avl/ls/Pinto_IL.html)”
     (RealPlayer Video)  
         
      Instructions: Click on the link titled “Video” in the middle of the
@@ -120,7 +121,7 @@ frequent, alliances and treaties were formed. *
     Link: The United Nations’ Audiovisual Library of International Law:
     Judge A. A. Cançado Trindade’s “[Jus Cogens in Contemporary
     International
-    Law](http://untreaty.un.org/cod/avl/ls/Cancado-Trindade_IL.html)”
+    Law](https://legal.un.org/avl/ls/Cancado-Trindade_IL.html)”
     (RealPlayer Video)  
         
      Instructions: Click on the link titled “Video” under the heading
@@ -134,8 +135,8 @@ frequent, alliances and treaties were formed. *
     International Law: Anthony D’Amato’s “Customary International Law”**
     Link: The United Nations’ Audiovisual Library of International Law:
     Anthony D’Amato’s “[Customary International
-    Law](http://untreaty.un.org/cod/avl/ls/D-Amato_IL.html)”
-    (RealPlayer)  
+    Law](https://legal.un.org/avl/ls/D-Amato_IL.html)”
+    (RealPlayer Video)  
         
      Instructions: Click on the link titled “Video” under the “Customary
     International Law” heading.  Please watch the video presentation (31
@@ -150,27 +151,26 @@ custom, precedent, treaty, statute, and constitution.  In this subunit,
 you will read about the sources of international law and how they are
 applied by courts, tribunals, agencies, and peacekeeping forces.*
 
--   **Reading: The United Nations’ Audiovisual Library of International
+-   **Web Media: The United Nations’ Audiovisual Library of International
     Law: Christopher Greenwood’s “Sources of International Law: An
     Introduction”**
     Link: The United Nations’ Audiovisual Library of International Law:
     Christopher Greenwood’s “[Sources of International Law: An
-    Introduction](https://web.archive.org/web/20131015140730/http://untreaty.un.org/cod/avl/ls/Greenwood_IL.html)”
-    (PDF)  
+    Introduction](https://legal.un.org/avl/ls/Greenwood_IL.html)”
+    (RealPlayer Video)  
         
-     Instructions: Go to the linked page and click the tab for “Related
-    Material,” and then on the link under “The Sources of International
-    Law” to read the article.  
+     Instructions: Click on the link titled "Video" under the heading
+    “The Sources of International Law.” Please watch the video
+    presentation (42 mins.).  
         
      Terms of Use: Please respect the copyright and terms of use
     displayed on the webpages above.
 
--   **Web Media: The United Nations’ Audiovisual Library of
-    International Law: Anthony D’Amato’s “The Sources of International
-    Law”**
+-   **Web Media: The United Nations’ Audiovisual Library of International
+    Law: Anthony D’Amato’s “The Sources of International Law”**
     Link: The United Nations’ Audiovisual Library of International Law:
     Anthony D’Amato’s “[The Sources of International
-    Law](https://web.archive.org/web/20131015140857/http://untreaty.un.org/cod/avl/ls/D-Amato_IL.html)”
+    Law](https://legal.un.org/avl/ls/D-Amato_IL.html)”
     (RealPlayer Video)  
         
      Instructions: Click on the link titled “Video” under the heading
@@ -186,7 +186,7 @@ applied by courts, tribunals, agencies, and peacekeeping forces.*
     Link: The United Nations’ Audiovisual Library of International Law:
     Judge A. A. Cançado Trindade ‘s “[General Principles of Law as a
     Source of International
-    Law](https://web.archive.org/web/20131015141136/http://untreaty.un.org/cod/avl/ls/Cancado-Trindade_IL.html)”
+    Law](https://legal.un.org/avl/ls/Cancado-Trindade_IL.html)”
     (RealPlayer)  
         
      Instructions: Please go to the linked page and scroll down the page
@@ -198,12 +198,13 @@ applied by courts, tribunals, agencies, and peacekeeping forces.*
     displayed on the webpages above.
 
 **1.4 Enforcement of International Law** <span id="1.4"></span> 
+
 -   **Web Media: The United Nations’ Audiovisual Library of
     International Law: Georges Abi-Saab’s “The International Judicial
     Function”**
     Link: The United Nations’ Audiovisual Library of International Law:
     Georges Abi-Saab’s “[The International Judicial
-    Function](https://web.archive.org/web/20131015135629/http://untreaty.un.org/cod/avl/ls/Abi-Saab_CT.html)”
+    Function](https://legal.un.org/avl/ls/Abi-Saab_CT.html)”
     (RealPlayer Video)  
         
      Instructions: Click on the link titled “Video” in the middle of the
@@ -216,7 +217,7 @@ applied by courts, tribunals, agencies, and peacekeeping forces.*
     International Law**
     Link: The United Nations’ Documentation Research Guide:
     *[International
-    Law](http://www.un.org/depts/dhl/resguide/specil.htm)* (HTML)  
+    Law](https://research.un.org/en/docs/law/introduction)* (HTML)  
         
      Instructions: Please go to the linked page and read it to learn
     about the various international courts and tribunals that seek to
@@ -231,10 +232,10 @@ applied by courts, tribunals, agencies, and peacekeeping forces.*
     Link: The United Nations’ Audiovisual Library of International Law:
     Vera Gowlland-Debbas’ lecture notes on “[The International Court of
     Justice as the Principal Judicial Organ of the United
-    Nations](https://web.archive.org/web/20131109214604/http://untreaty.un.org/cod/avl/ls/Gowlland-Debbas_CT.html)”
+    Nations](https://legal.un.org/avl/pdf/ls/Gowlland-Debbas_outline.pdf)”
     (PDF)  
         
-     Instructions: Go to the linked page and clickthe tab for “Related
+     Instructions: Go to the linked page and click the tab for “Related
     Material,” and then on the PDF icon link next to “Outline of
     Lecture” to read the lecture notes.  
         
@@ -247,7 +248,7 @@ applied by courts, tribunals, agencies, and peacekeeping forces.*
     Link: The United Nations’ Audiovisual Library of International Law:
     Vera Gowlland-Debbas’ “[The International Court of Justice as the
     Principal Judicial Organ of the United
-    Nations](http://untreaty.un.org/cod/avl/ls/Gowlland-Debbas_CT.html)”
+    Nations](https://legal.un.org/avl/ls/Gowlland-Debbas_CT.html)”
     (RealPlayer Video)  
         
      Instructions: Click on the link titled “Video” in the middle of the
@@ -261,7 +262,7 @@ applied by courts, tribunals, agencies, and peacekeeping forces.*
     Criminal Court at a Glance”**
     Link: The United Nations’ Audiovisual Library of International Law:
     Judge Sang Hyun Song’s “[The International Criminal Court at a
-    Glance](http://untreaty.un.org/cod/avl/ls/Song_CLP.html)”
+    Glance](https://legal.un.org/avl/ls/Song_CLP.html)”
     (RealPlayer Video)  
         
      Instructions: Click on the link titled “English” under the
@@ -277,7 +278,7 @@ applied by courts, tribunals, agencies, and peacekeeping forces.*
     Link: The United Nations’ Audiovisual Library of International Law:
     Judge A. A. Cançado Trindade’s “[The Access of Individuals to
     International
-    Justice](https://web.archive.org/web/20131015140135/http://untreaty.un.org/cod/avl/ls/Cancado-Trindade_HR.html)”
+    Justice](https://legal.un.org/avl/ls/Cancado-Trindade_HR.html)”
     (RealPlayer Video)  
         
      Instructions: Click on the link titled “Video” under the “Access of
@@ -286,5 +287,3 @@ applied by courts, tribunals, agencies, and peacekeeping forces.*
         
      Terms of Use: Please respect the copyright and terms of use
     displayed on the webpages above.
-
-
