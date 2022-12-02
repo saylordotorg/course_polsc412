@@ -37,6 +37,7 @@ This unit will take you approximately 6 hours to complete. 
 
 **Unit2 Learning Outcomes**  
 Upon successful completion of this unit, the student will be able to:  
+
 -   Define realist, liberal, and constructivist political theories.
 -   Explain the application and impact of realist, liberal, and
     constructivist theories to international law.
@@ -79,7 +80,7 @@ Security Council for action.*
 
 -   **Reading: United Nations: “UN at a Glance”**
     Link: United Nations: “[UN at a
-    Glance](http://www.un.org/en/aboutun/index.shtml)” (HTML)  
+    Glance](https://web.archive.org/web/20160205034737/http://www.un.org/en/about-un/index.html)” (HTML)  
         
      Instructions: Please go to the linked page and read the article,
     which discusses the formation of the United Nations and explains its
@@ -90,7 +91,7 @@ Security Council for action.*
 
 -   **Reading: United Nations: “Main Bodies”**
     Link: United Nations: “[Main
-    Bodies](http://www.un.org/en/mainbodies/)” (HTML)  
+    Bodies](https://www.un.org/en/about-us/main-bodies)” (HTML)  
         
      Instructions: Go to the linked page and read the article, which
     discusses main bodies  of the United Nations, such as the Security
@@ -105,9 +106,9 @@ Security Council for action.*
     Contradictory Commitments in International Law”**
     Link: The United Nations’ Audiovisual Library of International Law:
     Emmanuel Roucounas’ “[Successive, Parallel and Contradictory
-    Commitments](http://untreaty.un.org/cod/avl/ls/Roucounas_IL.html)[in
+    Commitments in
     International
-    Law](http://untreaty.un.org/cod/avl/ls/Roucounas_IL.html)”
+    Law](https://legal.un.org/avl/ls/Roucounas_IL.html)”
     (RealPlayer Video)  
         
      Instructions: Click on the link titled “Video” in the middle of the
@@ -124,7 +125,7 @@ explore how power impacts modern international law.*
 -   **Reading: IR Theory.com: Mark Beavis’ “IR Paradigms, Approaches and
     Theories”**
     Link: IR Theory.com: Mark Beavis’ “[IR Paradigms, Approaches and
-    Theories](http://www.irtheory.com/know.htm)” (HTML)  
+    Theories](https://web.archive.org/web/20191130001720/http://irtheory.com/know.htm)” (HTML)  
         
      Instructions: Please review this summary of the international
     relations and power relationships.  
@@ -138,7 +139,7 @@ explore how power impacts modern international law.*
     Link: The United Nations’ Audiovisual Library of International Law:
     Yasuaki Onuma’s “[International Law in a Multi-Polar and
     Multi-Civilizational World of the 21st
-    Century](https://web.archive.org/web/20131109205152/http://untreaty.un.org/cod/avl/ls/Onuma_IL.html)”
+    Century](https://legal.un.org/avl/ls/Onuma_IL.html)”
     (RealPlayer Video)  
         
      Instructions: Click on the link titled “Video” under the
@@ -159,8 +160,8 @@ that culture has on international law.*
     Contemporary International Law Making”**
     Link: The United Nations’ Audiovisual Library of International Law:
     Edward McWhinney’s Lecture Notes on “[Multiculturalism and
-    Contemporary](http://untreaty.un.org/cod/avl/ls/McWhinney_IL.html)[International
-    LawMaking](http://untreaty.un.org/cod/avl/ls/McWhinney_IL.html)”
+    Contemporary International
+    Law Making](https://legal.un.org/avl/ls/McWhinney_IL.html)”
     (PDF)  
         
      Instructions: Click on the “Related Materials” tab and then click
@@ -175,7 +176,7 @@ that culture has on international law.*
     Contemporary International Law Making”**
     Link: The United Nations’ Audiovisual Library of International Law:
     Edward McWhinney’s “[Multiculturalism and Contemporary International
-    Law Making](http://untreaty.un.org/cod/avl/ls/McWhinney_IL.html)”
+    Law Making](https://legal.un.org/avl/ls/McWhinney_IL.html)”
     (RealPlayer Video)  
         
      Instructions: Click on the link titled “Video” under the

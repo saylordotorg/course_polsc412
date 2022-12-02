@@ -8,8 +8,9 @@ This unit will take you approximately 12 hours to complete. 
   
  ☐    Subunit 4.3: 5 hours 
 
-**Unit4 Learning Outcomes**  
-Upon successful completion of this unit, the student will be able to:  
+**Unit 4 Learning Outcomes**  
+Upon successful completion of this unit, the student will be able to:
+  
 -   Explain limitations on lawful deployment of military forces and the
     use of nuclear, biological, and chemical weapons.
 -   Identify political, ethical, and legal issues incident to the use of
@@ -49,7 +50,7 @@ of combatants and non-combatants, were developed.*
     Link: The United Nations’ Audiovisual Library of International Law:
     Adam Roberts’ “[The Equal Application of the Laws of War: A
     Principle Under
-    Pressure](https://web.archive.org/web/20131015141334/http://untreaty.un.org/cod/avl/ls/Roberts_LAC.html)”
+    Pressure](https://legal.un.org/avl/ls/Roberts_LAC.html)”
     (RealPlayer Video)  
         
      Instructions: Click on the link titled “Video” in the middle of the
@@ -83,7 +84,7 @@ preemptive war under international law.*
     Reconsideration”**
     Link: Strategic Studies Institute: Dr. Colin S. Gray’s “[The
     Implications of Preemptive and Preventive War Doctrines: A
-    Reconsideration”](http://www.strategicstudiesinstitute.army.mil/pubs/display.cfm?pubID=789)
+    Reconsideration](https://ssi.armywarcollege.edu/2007/pubs/the-implications-of-preemptive-and-preventive-war-doctrines-a-reconsideration/)"
     (PDF)  
         
      Instructions: Please go to the linked page, then download and read
@@ -103,7 +104,7 @@ weapons.*
     “Weapons of Mass Destruction and International Law”**
     Link: American Society of International Law: David P. Fidler’s
     “[Weapons of Mass Destruction and International
-    Law](https://web.archive.org/web/20130722164326/http://www.asil.org/insigh97.cfm)”
+    Law](https://www.asil.org/insights/volume/8/issue/3/weapons-mass-destruction-and-international-law)”
     (HTML)  
         
      Instructions: Please go to the linked page and read the article,
@@ -118,7 +119,7 @@ weapons.*
     Law, Security, and Weapons of Mass Destruction”**
     Link: The United Nations: Jayantha Dhanapala’s “[International Law,
     Security, and Weapons of Mass
-    Destruction”](http://lcnp.org/disarmament/Speeches/dhanapalasabaspeech.htm)
+    Destruction](https://web.archive.org/web/20160306011543/http://lcnp.org/disarmament/Speeches/dhanapalasabaspeech.htm)"
     (HTML)  
         
      Instructions: Please go to the linked page and read the article,
@@ -131,14 +132,9 @@ weapons.*
 
 -   **Web Media: The United Nations’ Audiovisual Library of
     International Law: Mahasiko Asada’s “Nuclear Weapons and
-    International Law (Part I) and (Part II): Non-Proliferation of
-    Nuclear Weapons”**
+    International Law” Parts 1 & 2**
     Link: The United Nations’ Audiovisual Library of International Law:
-    Mahasiko Asada’s “Nuclear Weapons and International Law ([Part
-    I](http://webcast.un.org/ramgen/ondemand/legal/video/LectureSeries/asada100602.rm))
-    and ([Part
-    II](http://webcast.un.org/ramgen/ondemand/legal/video/LectureSeries/asada100602_2.rm)): Non-Proliferation
-    of Nuclear Weapons” (RealPlayer Video)  
+    Mahasiko Asada’s “[Nuclear Weapons and International Law](https://legal.un.org/avl/ls/Asada_ACD.html)" (RealPlayer Video)  
         
      Instructions: Please watch the video presentations (33 and 35
     mins.).  
@@ -151,7 +147,7 @@ weapons.*
     Convention: An Overview”**
     Link: The United Nations’ Audiovisual Library of International Law:
     Santiago Oñate Laborde’s “[The Chemical Weapons Convention: An
-    Overview](https://web.archive.org/web/20131017032735/http://legal.un.org/avl/ls/Onate-Laborde_AC.html)”
+    Overview](https://legal.un.org/avl/ls/Onate-Laborde_AC.html)”
     (RealPlayer Video)  
         
      Instructions: Please watch the video presentation (58 mins.).  

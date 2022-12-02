@@ -8,8 +8,9 @@ This unit will take you approximately 13 hours to complete. 
   
  ☐    Subunit 5.3: 4 hours
 
-**Unit5 Learning Outcomes**  
+**Unit 5 Learning Outcomes**  
 Upon successful completion of this unit, the student will be able to:  
+
 -   Explain how war crimes, genocide, and crimes against humanity are
     defined and enforced in international law.
 -   Discuss the difficulties of enforcing crimes that occur across
@@ -39,7 +40,7 @@ sovereignty.*
 -   **Reading: American Society of International Law: Gail A. Partin’s
     “International Criminal Law”**
     Link: American Society of International Law: Gail A. Partin’s
-    “[International Criminal Law](http://www.asil.org/erg/?page=icl)”
+    “[International Criminal Law](https://web.archive.org/web/20110806071831/http://www.asil.org/erg/?page=icl)”
     (HTML)  
         
      Instructions: Please go to the linked page and read the article,
@@ -53,13 +54,9 @@ sovereignty.*
 
 -   **Web Media: The United Nations’ Audiovisual Library of
     International Law: Benjamin B. Ferencz’s “The Evolution of
-    International Criminal Law (Part I) and (Part II)”**
+    International Criminal Law (Part I and II)”**
     Link: The United Nations’ Audiovisual Library of International Law:
-    Benjamin B. Ferencz’s “The Evolution of International Criminal Law
-    ([Part
-    I](http://webcast.un.org/ramgen/ondemand/legal/video/LectureSeries/ferencz071119-1.rm))
-    and ([Part
-    II](http://webcast.un.org/ramgen/ondemand/legal/video/LectureSeries/ferencz071114-2.rm))”
+    Benjamin B. Ferencz’s “[The Evolution of International Criminal Law](https://legal.un.org/avl/ls/Ferencz_CLP.html)”
     (RealPlayer Video)  
         
      Instructions: Please watch the video presentations (33 and 28
@@ -89,7 +86,7 @@ sovereignty.*
     International Criminal Justice”**
     Link: The United Nations’ Audiovisual Library of International Law:
     Justice Richard Goldstone’s “[The Future of International Criminal
-    Justice](http://untreaty.un.org/cod/avl/ls/Goldstone_CLP.html)” 
+    Justice](https://legal.un.org/avl/ls/Goldstone_CLP.html)” 
     (RealPlayer Video)  
         
      Instructions: Click on the “Video” link in the middle of the page. 
@@ -99,16 +96,16 @@ sovereignty.*
     displayed on the webpages above.
 
 **5.2 War Crimes and Genocide** <span id="5.2"></span> 
+
 -   **Reading: The United Nations’ Audiovisual Library of International
     Law: William A. Schabas’ “Convention on the Prevention and
     Punishment of the Crime of Genocide”**
     Link: The United Nations’ Audiovisual Library of International Law:
     William A. Schabas’ “[Convention on the Prevention and Punishment of
     the Crime of
-    Genocide](https://web.archive.org/web/20131017022408/http://legal.un.org/avl/ha/cppcg/cppcg.html)”
-    (HTMLor PDF)  
-        
-     Instructions: Please go to the linked page and read Dr. Schabas’
+    Genocide](https://web.archive.org/web/20131017022408/http://legal.un.org/avl/ha/cppcg/cppcg.html)” (HTML or PDF)
+    
+    Instructions: Please go to the linked page and read Dr. Schabas’
     article on the prevention and punishment of genocide.  You can
     access a PDF version by selecting the “English” link.  
         
@@ -116,11 +113,9 @@ sovereignty.*
     displayed on the webpages above.
 
 -   **Reading: The United Nations’ Audiovisual Library of International
-    Law: William A. Schabas’ Lecture Notes on “Genocide: The Crime of
-    Crimes”**
+    Law: William A. Schabas’ Lecture Notes on “Genocide and International Law”**
     Link: The United Nations’ Audiovisual Library of International Law:
-    William A. Schabas’ Lecture Notes on “[Genocide: Crime of
-    Crimes](https://web.archive.org/web/20131015140139/http://untreaty.un.org/cod/avl/ls/Schabas_CLP.html)”
+    William A. Schabas’ Lecture Notes on “[Genocide and International Law](https://legal.un.org/avl/ls/Schabas_CLP.html)”
     (PDF)  
         
      Instructions: Click on the “Related Materials” tab and download the
@@ -135,7 +130,7 @@ sovereignty.*
     Law”**
     Link: The United Nations’ Audiovisual Library of International Law:
     William A. Schabas’ “[Genocide and International
-    Law](http://untreaty.un.org/cod/avl/ls/Schabas_CLP.html)”
+    Law](https://legal.un.org/avl/ls/Schabas_CLP.html)”
     (RealPlayer Video)  
         
      Instructions: Click on the “Video” link in the middle of the page. 
@@ -151,7 +146,7 @@ sovereignty.*
     Link: The United Nations’ Audiovisual Library of International Law:
     Judge Theodor Meron’s “[Reflections on the Prosecution of War Crimes
     by International Tribunals: A Historical
-    Perspective](https://web.archive.org/web/20131109213411/http://untreaty.un.org/cod/avl/ls/Meron_CLP.html)”
+    Perspective](https://legal.un.org/avl/ls/Meron_CLP.html)”
     (RealPlayer Video)  
         
      Instructions: Click on the “Video” tab in the middle of the page. 
@@ -161,6 +156,7 @@ sovereignty.*
     displayed on the webpages above.
 
 **5.3 Terrorism** <span id="5.3"></span> 
+
 -   **Reading: The United Nations’ Audiovisual Library of International
     Law: Rohan Perera’s “Declaration on Measures to Eliminate
     International Terrorism (1994)”**
@@ -168,7 +164,7 @@ sovereignty.*
     Rohan Perera’s “[Declaration on Measures to Eliminate International
     Terrorism
     (1994)”](https://web.archive.org/web/20131002091922/http://untreaty.un.org/cod/avl/ha/dot/dot.html)
-    (HTMLor PDF)  
+    (HTML or PDF)  
         
      Instructions: Please go to the linked page and read Dr. Perera’s
     article on UN measures enacted in 1994 to eliminate international
@@ -200,7 +196,7 @@ sovereignty.*
     Link: The United Nations’ Audiovisual Library of International Law:
     Pierre Klein’s “[International Convention for the Suppression of the
     Financing of
-    Terrorism](http://untreaty.un.org/cod/avl/ha/icsft/icsft.html)”
+    Terrorism](https://web.archive.org/web/20131005155220/http://untreaty.un.org/cod/avl/ha/icsft/icsft.html)”
     (PDF)  
         
      Instructions: Please go to the linked pageand select the link
